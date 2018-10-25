@@ -1,2 +1,2 @@
 # BeyondStudio
-NXP BeyondStdudio Worspace
+NXP BeyondSudio Workspace
