@@ -1,0 +1,2 @@
+# BeyondStudio
+NXP BeyondStdudio Worspace
