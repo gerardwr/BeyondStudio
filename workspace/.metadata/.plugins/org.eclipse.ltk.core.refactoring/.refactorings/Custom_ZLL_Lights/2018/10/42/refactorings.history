@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Custom_ZLL_Lights/Copy of Light_ColorLight&apos; to &apos;Light_ColorLight_PeeVeeOne&apos;" description="Rename resource &apos;Copy of Light_ColorLight&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Copy of Light_ColorLight" name="Light_ColorLight_PeeVeeOne" stamp="1539939478655" updateReferences="true"/>
+</session>

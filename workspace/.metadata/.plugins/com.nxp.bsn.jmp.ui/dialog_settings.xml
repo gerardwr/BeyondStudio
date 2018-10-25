@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="COM3" key="jmp.prog.port"/>
+	<item value="ERASE_ALL" key="jmp.prog.eeprom.mode"/>
+	<item value="1000000" key="jmp.prog.baud"/>
+	<list key="jmp.prog.eeprom.filelist">
+		<item value=""/>
+	</list>
+	<list key="jmp.prog.image.filelist">
+		<item value="C:\NXP\binaries\Light_DimmableLight_JN5169_ME_1.bin"/>
+		<item value="C:\NXP\JN-AN-1171-ZigBee-LightLink-Demo\Light_DimmableLight\Build\Light_DimmableLight_JN5169_DR1175.bin"/>
+		<item value="${workspace_loc:/JN-AN-1171-ZigBee-LightLink-Demo/Light_DimmableLight/Build/Light_DimmableLight_JN5168_DR1175.bin}"/>
+	</list>
+</section>

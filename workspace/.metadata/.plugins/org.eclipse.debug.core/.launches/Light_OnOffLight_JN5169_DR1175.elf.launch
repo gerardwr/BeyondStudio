@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.beyondsemi.base.launchconfigtype">
+<booleanAttribute key="com.beyondsemi.base.launch.device.config.jtagproxy" value="true"/>
+<stringAttribute key="com.beyondsemi.base.launch.device.config.jtagproxy.parameters" value=""/>
+<booleanAttribute key="com.beyondsemi.base.launch.simulator.config.manual" value="false"/>
+<booleanAttribute key="com.beyondsemi.base.launch.simulator.config.manual.as_is" value="false"/>
+<stringAttribute key="com.beyondsemi.base.launch.simulator.config.manual.filename" value="sim.cfg"/>
+<stringAttribute key="com.beyondsemi.base.launch.target" value="device"/>
+<stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.connection" value="jtag jtag://localhost:9999"/>
+<intAttribute key="org.eclipse.cdt.debug.gdbjtag.core.delay" value="3"/>
+<booleanAttribute key="org.eclipse.cdt.debug.gdbjtag.core.doReset" value="true"/>
+<stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.imageFileName" value=""/>
+<stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.imageOffset" value=""/>
+<stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.initCommands" value=""/>
+<booleanAttribute key="org.eclipse.cdt.debug.gdbjtag.core.loadImage" value="true"/>
+<booleanAttribute key="org.eclipse.cdt.debug.gdbjtag.core.loadSymbols" value="false"/>
+<stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.pcRegister" value="AppColdStart"/>
+<stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.runCommands" value=""/>
+<booleanAttribute key="org.eclipse.cdt.debug.gdbjtag.core.setPcRegister" value="true"/>
+<booleanAttribute key="org.eclipse.cdt.debug.gdbjtag.core.setResume" value="false"/>
+<booleanAttribute key="org.eclipse.cdt.debug.gdbjtag.core.setStopAt" value="false"/>
+<stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.stopAt" value=""/>
+<stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.symbolsFileName" value=""/>
+<stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.symbolsOffset" value=""/>
+<booleanAttribute key="org.eclipse.cdt.debug.gdbjtag.core.useFileForImage" value="false"/>
+<booleanAttribute key="org.eclipse.cdt.debug.gdbjtag.core.useFileForSymbols" value="false"/>
+<booleanAttribute key="org.eclipse.cdt.debug.gdbjtag.core.useProjBinaryForImage" value="true"/>
+<booleanAttribute key="org.eclipse.cdt.debug.gdbjtag.core.useProjBinaryForSymbols" value="true"/>
+<stringAttribute key="org.eclipse.cdt.dsf.gdb.DEBUG_NAME" value="ba-elf-gdb.exe"/>
+<stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_ID" value="com.beyondsemi.base.core.debugger"/>
+<stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_START_MODE" value="remote"/>
+<booleanAttribute key="org.eclipse.cdt.launch.DEBUGGER_STOP_AT_MAIN" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROGRAM_NAME" value="Light_OnOffLight/Build/Light_OnOffLight_JN5169_DR1175.elf"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROJECT_ATTR" value="JN-AN-1171-ZigBee-LightLink-Demo"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROJECT_BUILD_CONFIG_ID_ATTR" value="0.876190861.1781733102.1301452172.781350071"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/JN-AN-1171-ZigBee-LightLink-Demo/Light_OnOffLight/Build/Light_OnOffLight_JN5169_DR1175.elf"/>
+<listEntry value="/JN-AN-1171-ZigBee-LightLink-Demo"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+<listEntry value="4"/>
+</listAttribute>
+<stringAttribute key="process_factory_id" value="org.eclipse.cdt.dsf.gdb.GdbProcessFactory"/>
+</launchConfiguration>
